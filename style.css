@@ -1,0 +1,33 @@
+body{
+     background-color: pink;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+ol{
+    text-align: center;
+    inline-size: inside;
+    list-style-position: inside;
+}
